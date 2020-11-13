@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3972966a-680e-4470-8045-6ef55756726d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\work\maven_work\repository" />
+        <option name="userSettingsFile" value="D:\IDEA_Works\work\maven_work\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jZo7soP6dNCmeMUwifrLprS5va" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/08-eureka-clinet-zuul-geteway" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15625" />
+    <property name="project.structure.side.proportion" value="0.29898804" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.hongtao.springcloud.domain" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hongtao.springcloud.domain" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA_Works\SpringCloud_pn\08-eureka-clinet-zuul-geteway" />
+      <recent name="D:\IDEA_Works\SpringCloud_pn\08-eureka-client-consumer-zuul" />
+      <recent name="D:\IDEA_Works\SpringCloud_pn\08-eureka-client-provider-zuul" />
+      <recent name="D:\IDEA_Works\SpringCloud_pn\08-eureka-server-zuul" />
+      <recent name="D:\IDEA_Works\SpringCloud_pn\07-eureka-feign-consumer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ZuulGateway">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="02-eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.springcloud.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClusterConsumer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="03-eureka-cluster-client-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.springcloud.ClusterConsumer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClusterConsumer07" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="07-eureka-feign-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.springcloud.ClusterConsumer07" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClusterProvider" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="03-eureka-cluster-client-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.springcloud.ClusterProvider" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClusterProvider07" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="07-eureka-fegin-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.springcloud.ClusterProvider07" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Consumer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="02-eureka-client-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.springcloud.Consumer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Consumer04" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="04-eureka-client-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.springcloud.Consumer04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Consumer06" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="06-eureka-client-hystrix-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.springcloud.Consumer06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Consumer08" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="08-eureka-client-consumer-zuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hongtao.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.springcloud.Consumer08" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="01-springcloud-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.spingcloud.ConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="06-eureka-server-hystrix" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.springcloud.EurekaServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer07" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="07-eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.springcloud.EurekaServer07" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer9100" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="03-eureka-cluster-server-9100" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.springcloud.EurekaServer9100" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer9200" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="03-eureka-cluster-server-9200" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.springcloud.EurekaServer9200" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixDashboard" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="06-hystrix-dashaboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.springcloud.HystrixDashboard" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="02-eureka-client-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.springcloud.Provider" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider06" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="06-eureka-client-hystrix-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.springcloud.Provider06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider08" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="08-eureka-client-provider-zuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hongtao.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.springcloud.Provider08" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider8081" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="04-eureka-client-provider-8081" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.springcloud.Provider8081" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider8082" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="04-eureka-client-provider-8082" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.springcloud.Provider8082" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="01-springcloud-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.springcloud.ProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RibbonServer9100" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="04-eureka-server-ribbon-9100" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.springcloud.RibbonServer9100" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server08" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="08-eureka-server-zuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hongtao.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.springcloud.Server08" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulGateway" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="08-eureka-clinet-zuul-geteway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hongtao.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hongtao.springcloud.ZuulGateway" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ZuulGateway" />
+        <item itemvalue="Spring Boot.Provider08" />
+        <item itemvalue="Spring Boot.Consumer08" />
+        <item itemvalue="Spring Boot.Server08" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3972966a-680e-4470-8045-6ef55756726d" name="Default Changelist" comment="" />
+      <created>1604020810218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604020810218</updated>
+      <workItem from="1604020811519" duration="12174000" />
+      <workItem from="1604282627510" duration="443000" />
+      <workItem from="1604283085473" duration="3074000" />
+      <workItem from="1604286173679" duration="2309000" />
+      <workItem from="1604290210671" duration="36751000" />
+      <workItem from="1604622578295" duration="9051000" />
+      <workItem from="1604645306101" duration="8103000" />
+      <workItem from="1604880754779" duration="7778000" />
+      <workItem from="1604971851489" duration="7128000" />
+      <workItem from="1604984423946" duration="1271000" />
+      <workItem from="1604985713440" duration="2747000" />
+      <workItem from="1604989216393" duration="172000" />
+      <workItem from="1604989402766" duration="6735000" />
+      <workItem from="1605016109440" duration="649000" />
+      <workItem from="1605016774294" duration="23555000" />
+      <workItem from="1605143184950" duration="2189000" />
+      <workItem from="1605150221980" duration="1469000" />
+      <workItem from="1605159218400" duration="20251000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1164" y="187" key="#Inspections" timestamp="1604983886604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1164" y="187" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1604983886604" />
+    <state x="624" y="0" key="#Project_Structure" timestamp="1605055392876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="0" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1605055392876" />
+    <state x="639" y="184" width="1117" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605165849524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="639" y="184" width="1117" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605165849524" />
+    <state x="1345" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1605249617171">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1345" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605249617171" />
+    <state x="747" y="362" width="732" height="320" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604305343312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="747" y="362" width="732" height="320" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1604305343312" />
+    <state x="805" y="210" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605159493636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="805" y="210" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605159493636" />
+    <state x="400" y="128" key="FileChooserDialogImpl" timestamp="1605160497168">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="400" y="128" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605160497168" />
+    <state width="1263" height="283" key="GridCell.Tab.0.bottom" timestamp="1605251709545">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1263" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605251709545" />
+    <state width="1263" height="283" key="GridCell.Tab.0.center" timestamp="1605251709545">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1263" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605251709545" />
+    <state width="1263" height="283" key="GridCell.Tab.0.left" timestamp="1605251709545">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1263" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605251709545" />
+    <state width="1263" height="283" key="GridCell.Tab.0.right" timestamp="1605251709545">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1263" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605251709545" />
+    <state width="1263" height="283" key="GridCell.Tab.1.bottom" timestamp="1605251709546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1263" height="283" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605251709546" />
+    <state width="1263" height="283" key="GridCell.Tab.1.center" timestamp="1605251709546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1263" height="283" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605251709546" />
+    <state width="1263" height="283" key="GridCell.Tab.1.left" timestamp="1605251709546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1263" height="283" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605251709546" />
+    <state width="1263" height="283" key="GridCell.Tab.1.right" timestamp="1605251709546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1263" height="283" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605251709546" />
+    <state width="1263" height="283" key="GridCell.Tab.2.bottom" timestamp="1605251709546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1263" height="283" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605251709546" />
+    <state width="1263" height="283" key="GridCell.Tab.2.center" timestamp="1605251709546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1263" height="283" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605251709546" />
+    <state width="1263" height="283" key="GridCell.Tab.2.left" timestamp="1605251709546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1263" height="283" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605251709546" />
+    <state width="1263" height="283" key="GridCell.Tab.2.right" timestamp="1605251709546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1263" height="283" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605251709546" />
+    <state x="742" y="196" key="NewModule_or_Project.wizard" timestamp="1605015844108">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="742" y="196" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1605015844108" />
+    <state x="624" y="67" width="1296" height="963" key="SettingsEditor" timestamp="1605160519302">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="67" width="1296" height="963" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605160519302" />
+    <state x="849" y="130" width="874" height="788" key="new project wizard" timestamp="1605160507147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="849" y="130" width="874" height="788" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1605160507147" />
+    <state x="881" y="5" width="840" height="174" key="search.everywhere.popup" timestamp="1605163345790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="881" y="5" width="840" height="174" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605163345790" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SpringCloud_pn$Application__6_.ic" NAME="Application (6) Coverage Results" MODIFIED="1604290311271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.hongtao.springcloud.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SpringCloud_pn$Application.ic" NAME="Application Coverage Results" MODIFIED="1604373356100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

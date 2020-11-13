@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/01-springcloud-consumer-l/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-springcloud-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-springcloud-provider-l/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-springcloud-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-eureka-client-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-eureka-client-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-eureka-cluster-client-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-eureka-cluster-client-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-eureka-cluster-server-9100/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-eureka-cluster-server-9200/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-eureka-client-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-eureka-client-provider-8081/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-eureka-client-provider-8082/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-eureka-server-ribbon-9100/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-eureka-client-hystrix-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-eureka-client-hystrix-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-eureka-server-hystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-hystrix-dashaboard/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-eureka-fegin-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-eureka-feign-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-eureka-client-consumer-zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-eureka-client-provider-zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-eureka-clinet-zuul-geteway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-eureka-server-zuul/src/main/java" charset="UTF-8" />
+  </component>
+</project>
